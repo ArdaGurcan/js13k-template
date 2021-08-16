@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/ArdaGurcan/js13k-template.git"
   },
+  "publishConfig": {
+   "@ardagurcan:registry": "https://npm.pkg.github.com"
+ },
   "author": "Arda Gürcan",
   "license": "MIT",
   "bugs": {
