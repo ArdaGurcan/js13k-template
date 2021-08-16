@@ -1,18 +1,19 @@
 {
-  "name": "@ArdaGurcan/js13k-template",
-  "collaborators": [
-    "ArdaGurcan <ardagurcan2004@gmail.com>"
-  ],
-  "version": "0.1.2",
-  "files": [
-    "wasm_js13k_bg.wasm",
-    "wasm_js13k.js",
-    "wasm_js13k.d.ts",
-    "index.js",
-    "index.html",
-    "README.md"
-  ],
-  "module": "wasm_js13k.js",
-  "types": "wasm_js13k.d.ts",
-  "sideEffects": false
+  "name": "@ardagurcan/js13k-template",
+  "version": "1.0.3",
+  "description": "A web template for js13k",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArdaGurcan/js13k-template.git"
+  },
+  "author": "Arda Gürcan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArdaGurcan/js13k-template/issues"
+  },
+  "homepage": "https://github.com/ArdaGurcan/js13k-template#readme"
 }
