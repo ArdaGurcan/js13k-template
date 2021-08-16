@@ -1,6 +1,6 @@
 {
   "name": "@ardagurcan/js13k-template",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A web template for js13k",
   "main": "index.js",
   "scripts": {
