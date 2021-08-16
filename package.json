@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ArdaGurcan/js13k-template.git"
+    "url": "git://github.com/ArdaGurcan/js13k-template.git"
   },
   "publishConfig": {
    "@ArdaGurcan:registry": "https://npm.pkg.github.com"
